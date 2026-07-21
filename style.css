@@ -1,0 +1,17 @@
+/*
+Theme Name:   Elan Law
+Theme URI:    https://elanlaw.com
+Author:       The Law Office of Robert I. Elan
+Author URI:   https://elanlaw.com
+Description:  Custom WordPress theme for The Law Office of Robert I. Elan – New York Trial & Litigation Attorney. Featuring premium split-screen layouts, glassmorphism effects, and a navy/accent-blue brand palette.
+Version:      1.0.0
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 7.4
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  elan-law
+Tags:         custom-menu, featured-images, custom-logo, threaded-comments, translation-ready, responsive-layout, full-width-template
+*/
+
+/* All theme styles are loaded via assets/css/main.css through functions.php */
